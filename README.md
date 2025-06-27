@@ -1,2 +1,2 @@
-# javascript-cev
-Javascript cursoemvideo
+# Javascript
+Curso de __Javascript__ do cursoemvideo
